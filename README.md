@@ -9,7 +9,7 @@ A small Python project I made to practice data cleaning and basic statistics on 
 
 OpenNeuro dataset `ds000164`: a color-word Stroop task (congruent, incongruent and neutral trials) done during fMRI scanning. I only used the behavioral files (`*_events.tsv`): 28 participants, about 120 trials each.
 
-Citation and license: [TODO: add from the dataset page on OpenNeuro]
+Citation and license: [Timothy D. Verstynen (2018). Stroop Task. OpenNeuro. [Dataset] doi: null]
 
 ## What I did
 
